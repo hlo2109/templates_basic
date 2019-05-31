@@ -1,5 +1,3 @@
 ﻿# Templates Basic
-
-## Ejemplo
-	http://hlo21.com/plantillas/basic/
+Echa con php, html y css
 	
